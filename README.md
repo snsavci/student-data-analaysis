@@ -27,13 +27,13 @@ All sensitive or identifying information is anonymized or censored.
 
 ## Project Structure
 
-student-data-analysis/
-├── notebook/
-│ └── student_data_analysis.ipynb # EDA, feature engineering, modeling, and evaluation
-├── data/
-│ └── student_data.csv # Raw dataset file
-├── requirements.txt # Python dependencies
-├── README.md 
+student-data-analysis/  
+├── notebook/  
+│ └── student_data_analysis.ipynb # EDA, feature engineering, modeling, and evaluation  
+├── data/  
+│ └── student_data.csv # Raw dataset file  
+├── requirements.txt # Python dependencies  
+├── README.md   
 
 ---
 
