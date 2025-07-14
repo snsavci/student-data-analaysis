@@ -88,7 +88,7 @@ pip install -r requirements.txt
 3. Open and run the notebook:
 
 * Launch Jupyter Notebook or use VSCode to open `notebooks/student_data_analysis.ipynb`.
-* Execute the cells sequentially to reproduce the analysis and modeling.
+* Execute the cells sequentially to reproduce the analysis and modeling
 
 ---
 
